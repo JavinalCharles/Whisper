@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<texts>
+	<text>
+		<p>15th Mark 1459</p>
+		<p>
+			It was afternoon when the city of Stagholm has come into view from the window of your carriage, with the sun just starting to make its routine westward descent, providing you with a clear view of the city of my birth and the capital of the Kingdom of Everwynn, where soon, you will be crowned...
+		</p>
+		<choices for="title">
+			<option value="King">...King, for I am a Prince</option>
+			<option value="Queen">...Queen, for I am a Princess</option>
+		</choices>
+	</text>
+	<text>
+		<p>The ascension was unexpected to say the least. you were not always destined to rule. In fact, uou had an older brother and an older sister, both of which were more highly capable. And both are groomed to succeed and rule. Though, that is not to say that you are incompetent. After all, you did left the capital for a reason did you not?</p>
+		<choices for="class">
+			<option value="1">I was studying at Everwynn Military Academy where I honed my martial prowess. I was going to pursue a career as a military officer.</option>
+			<option value="2">I studied magicology at Serafine's Magical Arts school. I have taken the path of a Wizard.</option>
+			<option value="3">I pledged my oath in service of the Lord of Light at the Grand Temple of Pelor. I was to become a Priest.</option>
+			<option value="4">I studied medicine at the Nyx Institute of Herbology, Anatomy and Alchemy, attempting to pursue a career as a Doctor.</option>
+			<option value="5">I studied artistry and went to the College of Performing Arts. I've made a few friends.... and enemies. Such are the ways of the Bards. </option>
+			<option value="6">I have always been a rebel. So I made connections with the least sophisticated sort. Namely smugglers and thieves and learned quite a few of their Rogue-ish tricks.</option>
+			<option value="7">I have learned the values of things and the art of bargaining. I have actually amassed a more than a moderate sum of wealth as a Merchant.</option>
+			<option value="8">I've spent the last few years traversing the wilds of the outskirts of Everwynn and neighboring kingdoms, simply living off the land as a Ranger.</option>
+		</choices>
+	</text>
+
+</texts>
